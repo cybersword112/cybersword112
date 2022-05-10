@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cypemberton.com/](https://cypemberton.com/)
 
-- 💬 Ask me about **My code projects or backpacking.**
+- 💬 Ask me about **my projects or backpacking.**
 
 - 📫 How to reach me **pembertoncy@gmail.com**
 
