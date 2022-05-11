@@ -8,12 +8,12 @@
   <a href="www.linkedin.com/in/cypemberton" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/PembertonCy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/PembertonCy" target="_blank">
+  <!-- <a href="https://twitter.com/PembertonCy" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
+  </a> -->
   <a href="https://cypemberton.com/software" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -148,12 +148,12 @@ See [my website](https://cypemberton.com/) for more information!
   <a href="www.linkedin.com/in/cypemberton" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/PembertonCy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/PembertonCy" target="_blank">
+  <!-- <a href="https://twitter.com/PembertonCy" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
+  </a> -->
   <a href="https://cypemberton.com/software" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
