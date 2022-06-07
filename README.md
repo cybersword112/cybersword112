@@ -1,109 +1,113 @@
 <!DOCTYPE HTML>
-<img src="images/default-edit.png" width="100%">
+<img src="images/default-edit.png" width="100%" style="border-radius:15px;">
 
 <p align="center">
   <a href="https://cypemberton.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src=https://img.shields.io/badge/website-2e4f7e?&style=for-the-badge&logo=googlechrome&logoColor=white alt="website badge" style="" />
   </a>
   <a href="www.linkedin.com/in/cypemberton" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2e4f7e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/PembertonCy" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-2e4f7e?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!-- <a href="https://twitter.com/PembertonCy" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-  <a href="https://cypemberton.com/software" target="_blank">
+   <a href="https://www.codewars.com/users/cybersword112">
+   <img src="https://img.shields.io/badge/Codewars-2e4f7e?style=for-the-badge&logo=Codewars&logoColor=white">
+   </a>
+  <!-- <a href="https://cypemberton.com/software" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
+    <a href="mailto:pembertoncy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2e4f7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 
-Previously a Project Engineer at Toyota, I am motivated by the power of technology as a tool for positive change, with a background in Engineering, and Project Management.
+<p align="center">Previously a Project Engineer at Toyota, I am motivated by the power of technology as a tool for positive change, with a background in Engineering, and Project Management.</p>
+<p align="left">I develop full-stack websites and applications for a variety of local and national customers. I make sure my customers have a competitive, well-designed, and responsive web presence for their audience. My BSE and career experience as a project-focused mechanical engineer has given me diverse exposure to engineering workflows. This problem-solving background has been very useful in software engineering and application development. My path into software began when I attempted to learn Unreal Engine as a hobby. I realized I needed to expand the rudimentary programming skills I had acquired from PLCs and MatLab. I decided I enjoyed software and began to focus my efforts, eventually falling into full-stack development.
+ </p>
 
 See [my website](https://cypemberton.com/) for more information!
 
-
-<!-- <h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Cuts and Curls</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://cutsandcurls.netlify.app/">
+            <img src="images/CutsAndCurls.gif" width="100%" alt="Hair Salon Website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/cybersword112/Cuts-and-Curls-Site" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://cutsandcurls.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, HTML, CSS</strong> - Website for a high-end hair salon.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">StreamLook</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://streamlook.netlify.app/">
+            <img src="images/streamlook.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/cybersword112/StreamLook" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://streamlook.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript, HTML, CSS</strong> - Web-application allowing users to search movie or show titles and find where they are available for streaming.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
-      <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">ShotSearch</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://shotsearch.netlify.app/">
+          <img src="images/ShotSearch.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/cybersword112/Shots" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://shotsearch.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Web-application allowing users to search for cocktails using ingrediants or alcohols and get instructions and measures for mixing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">João's Steakhouse</h3>
+      <br />
+        <a target="_blank" href="https://joaosteakhouse.netlify.app/">
+          <img src="images/JoasSteakhouse.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/cybersword112/Joas-Steakhouse-Site" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://joaosteakhouse.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Simple landing page for a brazillian steakhouse.</p>
     </td>
   </tr>
-</table> -->
+</table>
 
 
 <h1 align="center">Technologies</h1>
