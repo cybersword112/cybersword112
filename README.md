@@ -54,7 +54,7 @@ See [my website](https://cypemberton.com/) for more information!
       <h3 align="center">StreamLook</h3>
         <br />
       <a target="_blank" href="https://streamlook.netlify.app/">
-            <img src="images/streamlook.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/Streamlook.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
