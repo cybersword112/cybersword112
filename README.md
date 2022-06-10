@@ -36,7 +36,7 @@ See [my website](https://cypemberton.com/) for more information!
       <h3 align="center">Cuts and Curls</h3>
         <br />
         <a target="_blank" href="https://cutsandcurls.netlify.app/">
-              <img src="https://imgur.com/SYSG9Wk" class="imgur-embed-pub" lang="en" data-id="a/SYSG9Wk" data-context="false"  width="100%" alt="Hair Salon Website"/>
+              <img src="images/CutsAndCurls.gif"  width="100%" alt="Hair Salon Website"/>
         </a>
         <br />
         <p align="center">
